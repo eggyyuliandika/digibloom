@@ -339,7 +339,7 @@ const services = [
     ),
   },
   {
-    title: "Creative Design",
+    title: "Advertising",
     description:
       "Eye-catching visuals that bring your brand identity to life, from logos to digital assets.",
     icon: (
