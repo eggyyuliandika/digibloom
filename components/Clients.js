@@ -17,6 +17,22 @@ const clients = [
     color: "from-[#0F2347] to-blue-800",
     logo: "/kf.png",
   },
+  {
+    name: "Balimoon Art & Space",
+    description:
+      "Balimoon Art and Space adalah sebuah pusat kreatif di Bali yang kami bantu melalui layanan pembuatan website. Kami merancang dan mengembangkan website untuk memperkuat identitas brand, meningkatkan visibilitas online, serta mempermudah penyampaian informasi dan interaksi dengan komunitas.",
+    tag: "Website",
+    color: "from-[#0F2347] to-blue-800",
+    logo: "/balimoon.png",
+  },
+  {
+    name: "NWTC",
+    description:
+      "NWTC (National Winner Talent Competition) adalah ajang kompetisi akademik nasional berbasis digital oleh BTW Academy yang kami bantu melalui layanan social media management untuk meningkatkan awareness dan engagement.",
+    tag: "Social Media Management",
+    color: "from-[#0F2347] to-blue-800",
+    logo: "/nwtc.png",
+  },
 ];
 
 export default function Clients() {
